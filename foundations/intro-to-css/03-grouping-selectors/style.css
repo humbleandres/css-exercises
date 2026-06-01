@@ -1,1 +1,14 @@
 /* Add CSS Styling */
+.button-1 {
+    background-color: #000;
+    color: #f1f1f1;
+}
+
+.button-2 {
+    background-color: #fbff02;
+}
+
+.button-1,.button-2 {
+    font-family: Helvetica,"Times New Roman", sans-serif;
+    font-size: 28px;
+}
